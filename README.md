@@ -10,6 +10,8 @@ These configuration files require the following X-Plane 11 plugins:
 
 XSaitekPanels - https://forums.x-plane.org/index.php?/files/file/14646-xsaitekpanels-linwinmac3264/
 
+XSaitelPanels v2.75 plugin is require for correct operation of Battery Switch
+
 After installing the above plugin, copy the configuration files as follows:
 
 xsaitekpanels.ini to X-Plane 11/Aircraft/X-Aviation/SR22 Series/TorqueSim SR22 and SR22TN directories (2 copies).
